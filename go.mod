@@ -4,8 +4,8 @@ go 1.25.0
 
 require (
 	gitee.com/quant1x/asio v1.1.5
-	gitee.com/quant1x/exchange v0.8.9
-	gitee.com/quant1x/gox v1.24.10
+	gitee.com/quant1x/exchange v0.8.10
+	gitee.com/quant1x/gox v1.25.0
 	gitee.com/quant1x/num v0.7.8
 	golang.org/x/text v0.29.0
 	gopkg.in/ini.v1 v1.67.0
